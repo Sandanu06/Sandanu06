@@ -6,11 +6,9 @@
 
 ###
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/f8f2d642d114fdb80bf667dbafaff7f2232faf3b40c68b67f6d80abe7fb582b5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3036663231613136313932313931392e363363643738383764306137302e676966"  />
 
-###
 
-<p align="left">🌟 Hello! I'm an 18-year-old tech enthusiast passionate about exploring new technologies beyond just coding. 🚀 My interests span across entrepreneurship, cybersecurity, and trading, and I'm always eager to learn more! 💡 I love sharing knowledge with the world, whether it’s through my content or by connecting with others. 🌍 Currently, I’m running a few businesses and creating useful content that helps others on their journeys. Let’s innovate and inspire together! 💪✨ Feel free to tweak it further if you want!</p>
+<p>🌟 Hello! I'm an 18-year-old tech enthusiast passionate about exploring new technologies beyond just coding. 🚀 My interests span across entrepreneurship, cybersecurity, and trading, and I'm always eager to learn more! 💡 I love sharing knowledge with the world, whether it’s through my content or by connecting with others. 🌍 Currently, I’m running a few businesses and creating useful content that helps others on their journeys. Let’s innovate and inspire together! 💪✨ Feel free to tweak it further if you want!</p>
 
 ###
 
@@ -107,6 +105,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+###
+
+<h2 align="left">My Stats 💡</h2>
 
 ###
 
@@ -115,9 +116,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandanu06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<h2 align="left">My Stats 💡</h2>
 
 ###
 
@@ -137,3 +136,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/sandanu06"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sandanu06" /></a></p><br><br>
+
+
