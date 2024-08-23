@@ -131,7 +131,7 @@
 
 ###
 
-<h2 align="left">Wann Support Me?</h2>
+<h2 align="left">Wanna Support Me?</h2>
 
 ###
 
