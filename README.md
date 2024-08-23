@@ -6,13 +6,16 @@
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
+<img align="right" height="250" src="https://camo.githubusercontent.com/f8f2d642d114fdb80bf667dbafaff7f2232faf3b40c68b67f6d80abe7fb582b5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3036663231613136313932313931392e363363643738383764306137302e676966"  />
 
 ###
 
 <p align="left">🌟 Hello! I'm an 18-year-old tech enthusiast passionate about exploring new technologies beyond just coding. 🚀 My interests span across entrepreneurship, cybersecurity, and trading, and I'm always eager to learn more! 💡 I love sharing knowledge with the world, whether it’s through my content or by connecting with others. 🌍 Currently, I’m running a few businesses and creating useful content that helps others on their journeys. Let’s innovate and inspire together! 💪✨ Feel free to tweak it further if you want!</p>
 
 ###
+
+<br>
+
 
 <h2 align="left">Skills 🛠️</h2>
 
