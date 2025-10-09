@@ -8,7 +8,7 @@
 
 
 
-<p>🌟 Hello! I'm an 18-year-old tech enthusiast passionate about exploring new technologies beyond just coding. 🚀 My interests span across entrepreneurship, cybersecurity, and trading, and I'm always eager to learn more! 💡 I love sharing knowledge with the world, whether it’s through my content or by connecting with others. 🌍 Currently, I’m running a few businesses and creating useful content that helps others on their journeys. Let’s innovate and inspire together! 💪✨ Feel free to tweak it further if you want!</p>
+<p>🌟 Hello! I'm an 19-year-old tech enthusiast passionate about exploring new technologies beyond just coding. 🚀 My interests span across entrepreneurship, cybersecurity, and trading, and I'm always eager to learn more! 💡 I love sharing knowledge with the world, whether it’s through my content or by connecting with others. 🌍 Currently, I’m running a few businesses and creating useful content that helps others on their journeys. Let’s innovate and inspire together! 💪✨ Feel free to tweak it further if you want!</p>
 
 ###
 
